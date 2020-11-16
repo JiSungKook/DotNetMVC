@@ -1,1 +1,1 @@
-# DotNetMVC
+# DotNetCore 3.0
